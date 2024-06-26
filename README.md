@@ -3,9 +3,7 @@ Book Store Web Scraping
 
 Source: https://books.toscrape.com/
 
-NOTE: This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. This website offers simulates a real-world web scraping for an online book store. 
-
-ctice your web scraping skills and validate your tools in a safe and controlled environment.
+NOTE: This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning. This website offers simulates a real-world web scraping for an online book store. This website provides a safe and controlled environment for you to validate your web scraping skills in Python.
 
 Web scraping is not an easy task. You may notice that I am using a 'User-Agent'. This helps my code to web crawl and trick the website that I am real user, not an automated web scraper. Web scraping is helpful for a lot of use cases (e.g. stock market analysis, job board monitoring, news analaysis). But the problem is that many of these websites also use tools to block would-be web scrapers.
 
